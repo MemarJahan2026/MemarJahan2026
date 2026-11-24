@@ -6,11 +6,13 @@
 
 ---
 
+
 ## 📥 دریافت نسخه رایگان (PDF)
 
 برای مطالعه و دریافت مستقیم نسخه PDF، از لینک زیر استفاده کنید:
 
-👉 [دانلود مستقیم فایل PDF](https://github.com/MemarJahan2026/MemarJahan2026/raw/main/MemarJahan2026.pdf)
+👉 [دانلود مستقیم فایل PDF](https://github.com/MemarJahan2026/raw/main/MemarJahan2026.pdf)
+
 
 ---
 
